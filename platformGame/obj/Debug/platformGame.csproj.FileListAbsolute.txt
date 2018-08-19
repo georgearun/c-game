@@ -1,0 +1,10 @@
+D:\Arun\platformGame\platformGame\bin\Debug\platformGame.exe.config
+D:\Arun\platformGame\platformGame\bin\Debug\platformGame.exe
+D:\Arun\platformGame\platformGame\bin\Debug\platformGame.pdb
+D:\Arun\platformGame\platformGame\obj\Debug\platformGame.csprojAssemblyReference.cache
+D:\Arun\platformGame\platformGame\obj\Debug\platformGame.Form1.resources
+D:\Arun\platformGame\platformGame\obj\Debug\platformGame.Properties.Resources.resources
+D:\Arun\platformGame\platformGame\obj\Debug\platformGame.csproj.GenerateResource.cache
+D:\Arun\platformGame\platformGame\obj\Debug\platformGame.csproj.CoreCompileInputs.cache
+D:\Arun\platformGame\platformGame\obj\Debug\platformGame.exe
+D:\Arun\platformGame\platformGame\obj\Debug\platformGame.pdb
